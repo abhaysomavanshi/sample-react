@@ -26,7 +26,11 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
+  
         Click on the Vite and React logos to learn more
+        <h2>
+          1.0.0
+        </h2>
       </p>
     </>
   )
