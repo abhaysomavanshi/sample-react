@@ -29,7 +29,7 @@ function App() {
   
         Click on the Vite and React logos to learn more
         <h2>
-          2.0.0
+          3.0.0
         </h2>
       </p>
     </>
